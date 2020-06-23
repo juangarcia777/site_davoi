@@ -1,0 +1,26 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-9 col-sm-offset-3">
+            <button type="button" class="btn btn-primary" id="finalizar">Finalizar Compra</button>
+            <button type="button" class="btn btn-danger" id="limpar">Limpar Carrinho</button>
+            <button type="button" class="btn btn-success" id="total">Total</button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <fieldset>
+                <legend>Produtos (clique no produto para coloca-lo no carrinho)</legend>
+                <img id="prod1" class="produto thumbnail" data-placement="bottom" title="Produto 01 - R$ 29.90" data-preco="29.90" data-produto="nome produto 01" src="http://img.diariodelviajero.com/2011/10/shutterstock_64740520_650.jpg">
+                <img id="prod2" class="produto thumbnail" data-placement="bottom" title="Produto 02 - R$ 15,90" data-preco="15.90" src="http://blog.sinimanes.com/wp-content/uploads/2013/09/arrodaditos.jpg">
+                <img id="prod3" class="produto thumbnail" data-placement="bottom" title="Produto 03 - R$ 35,90" data-preco="35.90" src="http://www.laautenticadefensa.net/2008/06/22/080622-19.JPG">
+            </fieldset>
+        </div>
+        <div class="col-sm-6">
+            <fieldset id="carrinho">
+                <legend>Carrinho (clique no produto para remove-lo do carrinho)</legend>
+                <div id="itens"></div>
+            </fieldset>
+        </div>
+    </div>
+</div>
+

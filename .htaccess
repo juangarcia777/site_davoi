@@ -1,0 +1,40 @@
+<IfModule mod_rewrite.c>
+
+	#Bloquear listagem
+	#Options -Indexes
+
+	Options +FollowSymLinks
+	RewriteEngine on
+
+	DefaultLanguage pt-BR
+	AddDefaultCharset UTF-8
+
+
+	RewriteCond %{SCRIPT_FILENAME} !-d
+	RewriteCond %{SCRIPT_FILENAME} !-f 
+
+
+	#PAGES**************************************************************
+
+	#Share url
+
+	RewriteRule ^home?$ index.php [L,QSA]
+	RewriteRule ^inicio/(.*)?$ home.php?cidade=$1 [L,QSA]
+	RewriteRule ^home/?$ index.php [L,QSA]
+	RewriteRule ^contato/?$ all_contact.php [L,QSA]
+	RewriteRule ^contato/(.*)?$ all_contact.php?success=true [L,QSA]
+	RewriteRule ^planos/?$ planos_internet.php [L,QSA]
+	RewriteRule ^wifi/?$ super_wifi.php [L,QSA]
+	RewriteRule ^rh/?$ trabalhe_conosco.php [L,QSA]
+	RewriteRule ^parceiros/?$ parcerias.php [L,QSA]
+	RewriteRule ^parceiros/(.*)?$ parcerias.php?success=$1 [L,QSA]
+	RewriteRule ^dicas/?$ dicas.php [L,QSA]
+	RewriteRule ^finalizando/?$ finalize.php [L,QSA]
+	RewriteRule ^finalizando/(.*)/(.*)/(.*)?$ finalize.php?type=$1&plan=$2&price=$3 [L,QSA]
+	RewriteRule ^cart/?$ cart.php [L,QSA]
+	RewriteRule ^cobertura/?$ cobertura_page.php [L,QSA]
+
+
+
+
+</IfModule>

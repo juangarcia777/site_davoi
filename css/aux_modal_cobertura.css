@@ -1,0 +1,18 @@
+#rowModal {
+	max-width: 500px;
+}
+.modal-body {
+	background-color: #1b669d;
+	padding: 50px;
+}
+.btn-primary:hover {
+	background-color: #1b669d;
+	color: aliceblue;
+}
+
+@media screen and (max-width:400px) {
+	.modal-body {
+		background-color: #1b669d;
+		padding: 15px;
+	}
+}

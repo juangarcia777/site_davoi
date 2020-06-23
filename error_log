@@ -1,0 +1,399 @@
+[20-Feb-2020 11:06:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:06:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:06:11 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:06:11 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:06:11 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:11:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:11:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:11:22 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:11:22 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:11:22 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:11:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:11:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:11:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:11:26 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:11:26 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:11:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:11:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:11:31 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:11:31 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:11:31 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:11:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:11:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:11:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:11:37 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:11:37 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:11:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:11:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:11:45 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:11:45 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:11:45 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:15:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:15:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:15:05 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://www.sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:15:05 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:15:05 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:15:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:15:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:15:07 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://www.sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:15:07 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:15:07 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:15:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:15:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:15:09 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://www.sisconnection.com.br/clientes/davoi' (0) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:15:09 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:15:09 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:16:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:16:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:16:06 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:16:06 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:16:06 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:16:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:16:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:16:22 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:16:22 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:16:22 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:18:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:18:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:18:34 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:18:34 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:18:34 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:20:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:20:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:20:36 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:20:36 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:20:36 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:21:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:21:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:21:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:21:43 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:21:43 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:21:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:21:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:21:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:21:51 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:21:51 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:21:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:21:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:21:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:21:53 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:21:53 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:21:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:21:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:21:54 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:21:54 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:21:54 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:21:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:21:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:21:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:21:56 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:21:56 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:22:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:22:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:22:22 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:22:22 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:22:22 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:23:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:23:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 14:23:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'Root'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Feb-2020 14:23:21 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Feb-2020 14:23:21 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Feb-2020 11:28:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:28:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:29:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[20-Feb-2020 11:29:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sis/public_html/clientes/davoi/index.php:17) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 4
+[05-Mar-2020 10:09:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home2/sis/public_html/clientes/davoi/envia.php on line 47
+[08-Apr-2020 10:27:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[08-Apr-2020 10:27:43 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[08-Apr-2020 10:27:43 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[08-Apr-2020 14:17:05 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[08-Apr-2020 14:17:05 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[08-Apr-2020 14:17:05 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[08-Apr-2020 15:14:50 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[08-Apr-2020 15:14:50 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[08-Apr-2020 15:14:50 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[08-Apr-2020 15:20:10 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[08-Apr-2020 15:20:10 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[08-Apr-2020 15:20:10 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[09-Apr-2020 02:36:12 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[09-Apr-2020 02:36:12 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[09-Apr-2020 02:36:12 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[10-Apr-2020 20:13:42 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[10-Apr-2020 20:13:42 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[10-Apr-2020 20:13:42 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[10-Apr-2020 21:02:29 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[10-Apr-2020 21:02:29 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[10-Apr-2020 21:02:29 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[10-Apr-2020 23:30:29 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[10-Apr-2020 23:30:29 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[10-Apr-2020 23:30:29 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 03:18:54 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 03:18:54 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 03:18:54 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 11:54:59 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 11:54:59 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 11:54:59 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 13:06:45 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 13:06:45 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 13:06:45 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 13:45:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 13:45:02 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 13:45:02 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 13:51:59 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 13:51:59 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 13:51:59 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 14:15:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 14:15:20 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 14:15:20 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[11-Apr-2020 19:54:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[11-Apr-2020 19:54:26 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[11-Apr-2020 19:54:26 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[12-Apr-2020 01:15:12 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[12-Apr-2020 01:15:12 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[12-Apr-2020 01:15:12 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[12-Apr-2020 12:33:41 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[12-Apr-2020 12:33:41 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[12-Apr-2020 12:33:41 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[12-Apr-2020 18:41:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[12-Apr-2020 18:41:28 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[12-Apr-2020 18:41:28 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[13-Apr-2020 08:48:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[13-Apr-2020 08:48:57 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[13-Apr-2020 08:48:57 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[13-Apr-2020 10:45:10 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[13-Apr-2020 10:45:10 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[13-Apr-2020 10:45:10 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[13-Apr-2020 13:10:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[13-Apr-2020 13:10:57 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[13-Apr-2020 13:10:57 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[13-Apr-2020 20:03:35 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[13-Apr-2020 20:03:35 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[13-Apr-2020 20:03:35 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[13-Apr-2020 22:56:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[13-Apr-2020 22:56:02 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[13-Apr-2020 22:56:02 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[14-Apr-2020 10:27:18 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[14-Apr-2020 10:27:18 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[14-Apr-2020 10:27:18 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[14-Apr-2020 13:37:05 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[14-Apr-2020 13:37:05 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[14-Apr-2020 13:37:05 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[15-Apr-2020 02:57:50 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[15-Apr-2020 02:57:50 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[15-Apr-2020 02:57:50 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[15-Apr-2020 07:59:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[15-Apr-2020 07:59:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[15-Apr-2020 07:59:52 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[15-Apr-2020 08:35:40 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[15-Apr-2020 08:35:40 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[15-Apr-2020 08:35:40 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[15-Apr-2020 14:42:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[15-Apr-2020 14:42:26 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[15-Apr-2020 14:42:26 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[15-Apr-2020 14:45:42 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[15-Apr-2020 14:45:42 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[15-Apr-2020 14:45:42 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[17-Apr-2020 10:19:42 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[17-Apr-2020 10:19:42 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[17-Apr-2020 10:19:42 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[17-Apr-2020 10:32:00 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[17-Apr-2020 10:32:00 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[17-Apr-2020 10:32:00 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[17-Apr-2020 11:18:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[17-Apr-2020 11:18:21 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[17-Apr-2020 11:18:21 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[17-Apr-2020 11:20:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[17-Apr-2020 11:20:37 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[17-Apr-2020 11:20:37 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[17-Apr-2020 15:04:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[17-Apr-2020 15:04:20 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[17-Apr-2020 15:04:20 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[18-Apr-2020 14:53:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[18-Apr-2020 14:53:26 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[18-Apr-2020 14:53:26 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[18-Apr-2020 15:21:15 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[18-Apr-2020 15:21:15 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[18-Apr-2020 15:21:15 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[18-Apr-2020 18:24:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[18-Apr-2020 18:24:57 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[18-Apr-2020 18:24:57 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[18-Apr-2020 19:14:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[18-Apr-2020 19:14:56 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[18-Apr-2020 19:14:56 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[18-Apr-2020 19:15:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[18-Apr-2020 19:15:39 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[18-Apr-2020 19:15:39 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[19-Apr-2020 00:27:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[19-Apr-2020 00:27:53 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[19-Apr-2020 00:27:53 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[19-Apr-2020 14:20:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[19-Apr-2020 14:20:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[19-Apr-2020 14:20:24 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[19-Apr-2020 14:20:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[19-Apr-2020 14:20:37 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[19-Apr-2020 14:20:37 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[19-Apr-2020 22:03:07 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[19-Apr-2020 22:03:07 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[19-Apr-2020 22:03:07 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 03:10:32 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 03:10:32 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 03:10:32 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 03:10:34 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 03:10:34 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 03:10:34 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 03:10:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 03:10:37 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 03:10:37 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 03:10:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 03:10:39 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 03:10:39 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 13:00:31 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 13:00:31 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 13:00:31 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[20-Apr-2020 15:59:38 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[20-Apr-2020 15:59:38 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[20-Apr-2020 15:59:38 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 01:20:11 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 01:20:11 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 01:20:11 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 01:26:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 01:26:02 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 01:26:02 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 01:28:08 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 01:28:08 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 01:28:08 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 15:09:17 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 15:09:17 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 15:09:17 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 15:11:32 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 15:11:32 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 15:11:32 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 15:14:04 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 15:14:04 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 15:14:04 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 15:17:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 15:17:28 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 15:17:28 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[21-Apr-2020 15:19:44 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[21-Apr-2020 15:19:44 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[21-Apr-2020 15:19:44 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 00:49:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 00:49:43 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 00:49:43 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 01:02:40 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 01:02:40 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 01:02:40 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 12:51:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 12:51:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 12:51:13 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 20:14:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 20:14:20 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 20:14:20 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 21:05:04 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 21:05:04 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 21:05:04 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[22-Apr-2020 23:13:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[22-Apr-2020 23:13:57 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[22-Apr-2020 23:13:57 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[23-Apr-2020 12:52:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[23-Apr-2020 12:52:21 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[23-Apr-2020 12:52:21 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[23-Apr-2020 13:06:23 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[23-Apr-2020 13:06:23 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[23-Apr-2020 13:06:23 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[23-Apr-2020 19:42:25 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[23-Apr-2020 19:42:25 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[23-Apr-2020 19:42:25 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 00:44:23 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 00:44:23 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 00:44:23 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 14:24:08 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 14:24:08 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 14:24:08 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 14:30:31 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 14:30:31 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 14:30:31 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 16:23:16 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 16:23:16 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 16:23:16 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 16:24:32 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 16:24:32 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 16:24:32 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 16:25:36 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 16:25:36 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 16:25:36 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 18:52:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 18:52:14 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 18:52:14 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 19:25:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 19:25:14 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 19:25:14 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 21:57:49 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 21:57:49 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 21:57:49 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 22:01:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 22:01:51 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 22:01:51 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 23:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 23:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 23:37:52 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 23:39:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 23:39:26 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 23:39:26 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 23:45:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 23:45:56 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 23:45:56 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[24-Apr-2020 23:47:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[24-Apr-2020 23:47:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[24-Apr-2020 23:47:24 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[25-Apr-2020 14:34:50 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[25-Apr-2020 14:34:50 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[25-Apr-2020 14:34:50 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[25-Apr-2020 15:08:31 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[25-Apr-2020 15:08:31 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[25-Apr-2020 15:08:31 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[25-Apr-2020 15:41:59 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[25-Apr-2020 15:41:59 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[25-Apr-2020 15:41:59 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[25-Apr-2020 19:40:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[25-Apr-2020 19:40:43 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[25-Apr-2020 19:40:43 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[25-Apr-2020 19:58:19 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[25-Apr-2020 19:58:19 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[25-Apr-2020 19:58:19 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 03:55:45 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 03:55:45 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 03:55:45 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 10:15:46 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 10:15:46 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 10:15:46 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 12:51:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 12:51:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 12:51:24 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 14:03:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 14:03:02 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 14:03:02 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 16:02:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 16:02:56 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 16:02:56 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 17:21:30 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 17:21:30 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 17:21:30 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 19:00:30 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 19:00:30 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 19:00:30 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 19:04:48 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 19:04:48 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 19:04:48 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 19:16:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 19:16:53 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 19:16:53 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 20:02:12 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 20:02:12 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 20:02:12 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[26-Apr-2020 23:00:41 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[26-Apr-2020 23:00:41 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[26-Apr-2020 23:00:41 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
+[27-Apr-2020 09:02:12 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'sis'@'localhost' (using password: YES) in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 32
+[27-Apr-2020 09:02:12 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 33
+[27-Apr-2020 09:02:12 America/Sao_Paulo] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/sis/public_html/clientes/davoi/class/class.db.php on line 46
