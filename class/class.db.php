@@ -10,14 +10,6 @@
 	define("USER", "root");
 	define("PASSWORD", "");
 	define("PATH", "http://localhost/davoi/");
-	//define("REPOSITORY", "repository/");
-
-	// define("HOST", "localhost");
-	// define("DBNAME", "sis_davoi1");
-	// define("USER", "sis");
-	// define("PASSWORD", "$!gONCyy@p^v");
-	// define("PATH", "https://".$host."/clientes/davoi/");
-	//define("REPOSITORY", "repository/");
 
 
 
